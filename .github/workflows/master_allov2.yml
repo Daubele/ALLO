@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ALLOV2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E9C2BE3DDE94C4A85BCE089B223625D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC0F863CA2694487872273D8BF3D0770 }}
